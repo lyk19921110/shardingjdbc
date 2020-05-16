@@ -1,2 +1,2 @@
 # shardingjdbc
-springgboot+shardingjdbc分表demo
+springboot+shardingjdbc+mysql+mybatis分表测试
